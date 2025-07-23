@@ -10,10 +10,10 @@
   <label for="email"><b>email</b></label>
     <input type="text" placeholder="enter email" name="email" id="name" required>
 
-   <label for="mother name"><b>name</b></label>
-        <input type="text" placeholder="mother name" name="mother name" id=" name" required>
-	  <label for="mother name"><b>name</b></label>
-	      <input type="text" placeholder="mother namee" name="mother name" id="name" required>
+ 
+
+
+
 
 
 
